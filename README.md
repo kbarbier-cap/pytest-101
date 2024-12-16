@@ -28,7 +28,7 @@ The folder architecture is the following :
 
 - Activate your python environment (python3.10)
 - Run in your shell `make install_env`
-- Your env is ready (for some reasons when using a conda environment you may need to reactivate your env to have your own package properly intalled)
+- Your env is ready (for some reasons when using a conda environment you need to reactivate your env to have your own package properly intalled)
 
 # Exercices
 
